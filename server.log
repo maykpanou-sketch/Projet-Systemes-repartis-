@@ -3967,3 +3967,408 @@
 2026-03-11 14:37:41,262 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.2% MEM=65.5% DISK=53.3%
 2026-03-11 14:38:12,308 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50480)
 2026-03-11 14:38:12,308 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.6% MEM=65.5% DISK=53.3%
+2026-03-11 14:38:43,357 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51978)
+2026-03-11 14:38:43,358 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.7% MEM=65.5% DISK=53.3%
+2026-03-11 14:39:14,400 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55272)
+2026-03-11 14:39:14,400 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.9% MEM=65.8% DISK=53.3%
+2026-03-11 14:39:45,458 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55492)
+2026-03-11 14:39:45,474 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=12.8% MEM=65.7% DISK=53.3%
+2026-03-11 14:40:16,519 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53607)
+2026-03-11 14:40:16,519 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=65.8% DISK=53.3%
+2026-03-11 14:40:47,560 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62084)
+2026-03-11 14:40:47,561 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.4% MEM=66.0% DISK=53.3%
+2026-03-11 14:41:18,600 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64552)
+2026-03-11 14:41:18,613 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.7% MEM=66.0% DISK=53.3%
+2026-03-11 14:41:49,676 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58387)
+2026-03-11 14:41:49,686 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.7% MEM=65.9% DISK=53.3%
+2026-03-11 14:42:20,735 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55524)
+2026-03-11 14:42:20,748 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.4% MEM=65.5% DISK=53.3%
+2026-03-11 14:42:51,786 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57274)
+2026-03-11 14:42:51,806 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=65.6% DISK=53.3%
+2026-03-11 14:43:22,851 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52760)
+2026-03-11 14:43:22,875 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.6% MEM=65.5% DISK=53.3%
+2026-03-11 14:43:53,917 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58180)
+2026-03-11 14:43:53,917 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=19.1% MEM=66.0% DISK=53.3%
+2026-03-11 14:44:24,963 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52887)
+2026-03-11 14:44:24,964 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.3% MEM=65.5% DISK=53.3%
+2026-03-11 14:44:56,009 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51165)
+2026-03-11 14:44:56,009 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.8% MEM=65.5% DISK=53.3%
+2026-03-11 14:45:27,052 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54175)
+2026-03-11 14:45:27,053 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.7% MEM=66.4% DISK=53.3%
+2026-03-11 14:45:58,094 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63844)
+2026-03-11 14:45:58,094 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=66.6% DISK=53.3%
+2026-03-11 14:46:29,139 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64223)
+2026-03-11 14:46:29,139 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.3% MEM=65.8% DISK=53.3%
+2026-03-11 14:47:00,182 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64595)
+2026-03-11 14:47:00,182 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.1% MEM=66.0% DISK=53.3%
+2026-03-11 14:47:31,255 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60707)
+2026-03-11 14:47:31,255 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.3% MEM=65.5% DISK=53.3%
+2026-03-11 14:48:02,316 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55758)
+2026-03-11 14:48:02,317 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.0% MEM=64.1% DISK=53.3%
+2026-03-11 14:48:33,389 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58555)
+2026-03-11 14:48:33,390 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.4% MEM=64.8% DISK=53.3%
+2026-03-11 14:49:04,455 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62374)
+2026-03-11 14:49:04,456 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=11.1% MEM=64.9% DISK=53.3%
+2026-03-11 14:49:35,525 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52961)
+2026-03-11 14:49:35,525 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.9% MEM=64.4% DISK=53.3%
+2026-03-11 14:50:06,588 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56947)
+2026-03-11 14:50:06,588 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.4% MEM=64.4% DISK=53.3%
+2026-03-11 14:50:37,650 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58556)
+2026-03-11 14:50:37,651 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.1% MEM=64.4% DISK=53.3%
+2026-03-11 14:51:08,742 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53431)
+2026-03-11 14:51:08,742 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=65.3% DISK=53.3%
+2026-03-11 14:51:39,810 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61186)
+2026-03-11 14:51:39,811 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.9% MEM=64.6% DISK=53.3%
+2026-03-11 14:52:10,888 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60539)
+2026-03-11 14:52:10,889 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.7% MEM=64.5% DISK=53.3%
+2026-03-11 14:52:41,957 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62191)
+2026-03-11 14:52:41,958 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.6% MEM=64.2% DISK=53.3%
+2026-03-11 14:53:13,026 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61151)
+2026-03-11 14:53:13,026 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.0% MEM=64.5% DISK=53.3%
+2026-03-11 14:53:44,082 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61156)
+2026-03-11 14:53:44,083 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.1% MEM=62.6% DISK=53.3%
+2026-03-11 14:54:15,162 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56286)
+2026-03-11 14:54:15,163 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.7% MEM=63.0% DISK=53.3%
+2026-03-11 14:54:46,225 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56287)
+2026-03-11 14:54:46,226 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.7% MEM=62.8% DISK=53.3%
+2026-03-11 14:55:17,283 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57775)
+2026-03-11 14:55:17,283 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.3% MEM=63.0% DISK=53.3%
+2026-03-11 14:55:48,344 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52177)
+2026-03-11 14:55:48,345 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.6% MEM=63.3% DISK=53.3%
+2026-03-11 14:56:19,416 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52573)
+2026-03-11 14:56:19,416 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.5% MEM=63.2% DISK=53.3%
+2026-03-11 14:56:50,498 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61168)
+2026-03-11 14:56:50,500 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.8% MEM=62.9% DISK=53.3%
+2026-03-11 14:57:21,590 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53000)
+2026-03-11 14:57:21,591 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.8% MEM=62.9% DISK=53.3%
+2026-03-11 14:57:52,657 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53004)
+2026-03-11 14:57:52,658 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.1% MEM=61.9% DISK=53.3%
+2026-03-11 14:58:23,719 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53806)
+2026-03-11 14:58:23,719 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.1% MEM=62.7% DISK=53.3%
+2026-03-11 14:58:54,784 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51545)
+2026-03-11 14:58:54,785 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=63.4% DISK=53.3%
+2026-03-11 14:59:25,852 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52149)
+2026-03-11 14:59:25,864 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.9% MEM=62.7% DISK=53.3%
+2026-03-11 14:59:56,941 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52152)
+2026-03-11 14:59:56,941 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=62.5% DISK=53.3%
+2026-03-11 15:00:28,015 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50446)
+2026-03-11 15:00:28,016 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.3% MEM=63.0% DISK=53.3%
+2026-03-11 15:00:59,067 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50447)
+2026-03-11 15:00:59,067 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.1% MEM=62.9% DISK=53.3%
+2026-03-11 15:01:30,140 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61763)
+2026-03-11 15:01:30,158 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.4% MEM=63.6% DISK=53.3%
+2026-03-11 15:02:01,224 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52325)
+2026-03-11 15:02:01,225 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.1% MEM=62.5% DISK=53.3%
+2026-03-11 15:02:32,258 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61789)
+2026-03-11 15:02:32,277 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.7% MEM=63.6% DISK=53.3%
+2026-03-11 15:03:03,343 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54858)
+2026-03-11 15:03:03,344 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.7% MEM=64.0% DISK=53.3%
+2026-03-11 15:03:34,402 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58755)
+2026-03-11 15:03:34,402 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=16.3% MEM=64.7% DISK=53.3%
+2026-03-11 15:04:05,468 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53912)
+2026-03-11 15:04:05,468 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.2% MEM=64.4% DISK=53.3%
+2026-03-11 15:04:36,547 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63721)
+2026-03-11 15:04:36,560 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=64.3% DISK=53.3%
+2026-03-11 15:05:07,621 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63469)
+2026-03-11 15:05:07,631 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.9% MEM=66.2% DISK=53.3%
+2026-03-11 15:05:38,689 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55769)
+2026-03-11 15:05:38,707 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=11.2% MEM=65.6% DISK=53.3%
+2026-03-11 15:06:09,759 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55988)
+2026-03-11 15:06:09,760 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=13.7% MEM=64.5% DISK=53.3%
+2026-03-11 15:06:40,816 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57072)
+2026-03-11 15:06:40,817 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=64.6% DISK=53.3%
+2026-03-11 15:07:11,878 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51177)
+2026-03-11 15:07:11,880 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.3% MEM=64.9% DISK=53.3%
+2026-03-11 15:07:42,947 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56175)
+2026-03-11 15:07:42,948 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.2% MEM=65.7% DISK=53.3%
+2026-03-11 15:08:14,051 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52729)
+2026-03-11 15:08:14,051 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.1% MEM=65.4% DISK=53.3%
+2026-03-11 15:08:45,109 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60726)
+2026-03-11 15:08:45,109 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.6% MEM=65.6% DISK=53.3%
+2026-03-11 15:09:16,177 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65079)
+2026-03-11 15:09:16,190 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.8% MEM=66.2% DISK=53.3%
+2026-03-11 15:11:15,183 [SERVEUR] ERROR - [PANNE] Nœud 9c9f3bc9 hors ligne (aucune donnée depuis 90s)
+2026-03-11 15:11:16,108 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58774)
+2026-03-11 15:11:16,108 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=72.3% MEM=67.5% DISK=53.3%
+2026-03-11 15:11:47,164 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58814)
+2026-03-11 15:11:47,164 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=9.3% MEM=69.0% DISK=53.3%
+2026-03-11 15:12:18,213 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58836)
+2026-03-11 15:12:18,229 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.9% MEM=69.1% DISK=53.3%
+2026-03-11 15:12:49,275 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49277)
+2026-03-11 15:12:49,276 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=35.8% MEM=69.2% DISK=53.3%
+2026-03-11 15:13:20,312 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55175)
+2026-03-11 15:13:20,333 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=69.8% DISK=53.3%
+2026-03-11 15:13:51,393 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61702)
+2026-03-11 15:13:51,393 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=69.7% DISK=53.3%
+2026-03-11 15:14:22,491 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58353)
+2026-03-11 15:14:22,492 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.9% MEM=68.6% DISK=53.3%
+2026-03-11 15:14:53,543 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50269)
+2026-03-11 15:14:53,543 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.5% MEM=68.6% DISK=53.3%
+2026-03-11 15:15:24,578 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64282)
+2026-03-11 15:15:24,578 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=11.1% MEM=68.9% DISK=53.3%
+2026-03-11 15:15:55,636 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64286)
+2026-03-11 15:15:55,637 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.0% MEM=67.3% DISK=53.3%
+2026-03-11 15:16:26,678 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59577)
+2026-03-11 15:16:26,678 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.3% MEM=68.5% DISK=53.3%
+2026-03-11 15:16:57,727 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49674)
+2026-03-11 15:16:57,728 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=12.7% MEM=68.1% DISK=53.3%
+2026-03-11 15:17:28,778 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63047)
+2026-03-11 15:17:28,791 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.3% MEM=68.6% DISK=53.3%
+2026-03-11 15:17:59,835 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55927)
+2026-03-11 15:17:59,836 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.5% MEM=68.4% DISK=53.3%
+2026-03-11 15:18:30,866 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55928)
+2026-03-11 15:18:30,866 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.0% MEM=68.0% DISK=53.3%
+2026-03-11 15:19:01,909 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55939)
+2026-03-11 15:19:01,909 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.0% MEM=68.3% DISK=53.3%
+2026-03-11 15:19:32,955 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64064)
+2026-03-11 15:19:32,956 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=67.8% DISK=53.3%
+2026-03-11 15:20:03,999 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65415)
+2026-03-11 15:20:03,999 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.4% MEM=68.2% DISK=53.3%
+2026-03-11 15:20:35,033 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65416)
+2026-03-11 15:20:35,033 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=10.6% MEM=68.6% DISK=53.3%
+2026-03-11 15:21:06,069 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52385)
+2026-03-11 15:21:06,070 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.9% MEM=68.4% DISK=53.3%
+2026-03-11 15:21:37,135 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52389)
+2026-03-11 15:21:37,136 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.4% MEM=67.9% DISK=53.3%
+2026-03-11 15:22:08,195 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52392)
+2026-03-11 15:22:08,195 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=67.7% DISK=53.3%
+2026-03-11 15:22:39,250 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53934)
+2026-03-11 15:22:39,250 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=67.2% DISK=53.3%
+2026-03-11 15:23:10,302 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59819)
+2026-03-11 15:23:10,302 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=9.7% MEM=67.9% DISK=53.3%
+2026-03-11 15:23:41,351 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59822)
+2026-03-11 15:23:41,352 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=11.0% MEM=67.0% DISK=53.3%
+2026-03-11 15:24:12,412 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59828)
+2026-03-11 15:24:12,413 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.6% MEM=67.0% DISK=53.3%
+2026-03-11 15:24:43,478 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59830)
+2026-03-11 15:24:43,481 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.8% MEM=67.1% DISK=53.3%
+2026-03-11 15:25:14,562 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51392)
+2026-03-11 15:25:14,562 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.0% MEM=66.5% DISK=53.3%
+2026-03-11 15:25:45,623 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51394)
+2026-03-11 15:25:45,623 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.8% MEM=66.7% DISK=53.3%
+2026-03-11 15:26:16,668 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50429)
+2026-03-11 15:26:16,692 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=13.6% MEM=67.2% DISK=53.3%
+2026-03-11 15:26:47,758 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61348)
+2026-03-11 15:26:47,759 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.7% MEM=66.8% DISK=53.3%
+2026-03-11 15:27:18,807 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58546)
+2026-03-11 15:27:18,807 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.2% MEM=66.7% DISK=53.3%
+2026-03-11 15:27:49,883 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58548)
+2026-03-11 15:27:49,884 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=66.7% DISK=53.3%
+2026-03-11 15:28:20,937 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58552)
+2026-03-11 15:28:20,938 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.2% MEM=66.4% DISK=53.3%
+2026-03-11 15:28:51,988 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58555)
+2026-03-11 15:28:51,988 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=65.8% DISK=53.3%
+2026-03-11 15:29:23,041 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53212)
+2026-03-11 15:29:23,042 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.9% MEM=67.8% DISK=53.3%
+2026-03-11 15:29:54,083 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53218)
+2026-03-11 15:29:54,084 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.3% MEM=67.3% DISK=53.3%
+2026-03-11 15:30:25,134 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58591)
+2026-03-11 15:30:25,134 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.0% MEM=67.9% DISK=53.3%
+2026-03-11 15:30:56,214 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58594)
+2026-03-11 15:30:56,215 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=67.6% DISK=53.3%
+2026-03-11 15:31:27,280 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58963)
+2026-03-11 15:31:27,280 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.6% MEM=67.5% DISK=53.3%
+2026-03-11 15:31:58,335 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49745)
+2026-03-11 15:31:58,335 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=67.4% DISK=53.3%
+2026-03-11 15:32:29,380 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49747)
+2026-03-11 15:32:29,380 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.2% MEM=67.7% DISK=53.3%
+2026-03-11 15:33:00,421 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57608)
+2026-03-11 15:33:00,422 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.7% MEM=67.8% DISK=53.3%
+2026-03-11 15:33:31,474 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58411)
+2026-03-11 15:33:31,474 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.2% MEM=67.6% DISK=53.3%
+2026-03-11 15:34:02,527 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58413)
+2026-03-11 15:34:02,528 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.3% MEM=66.9% DISK=53.3%
+2026-03-11 15:34:33,581 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61919)
+2026-03-11 15:34:33,581 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.4% MEM=66.8% DISK=53.3%
+2026-03-11 15:35:04,624 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52036)
+2026-03-11 15:35:04,645 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.3% MEM=68.1% DISK=53.3%
+2026-03-11 15:35:35,707 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62881)
+2026-03-11 15:35:35,708 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.1% MEM=68.9% DISK=53.3%
+2026-03-11 15:36:06,784 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60717)
+2026-03-11 15:36:06,796 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=67.9% DISK=53.3%
+2026-03-11 15:36:37,848 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60920)
+2026-03-11 15:36:37,849 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.6% MEM=67.2% DISK=53.3%
+2026-03-11 15:37:08,896 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55554)
+2026-03-11 15:37:08,896 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=66.8% DISK=53.3%
+2026-03-11 15:37:39,940 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51428)
+2026-03-11 15:37:39,941 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.3% MEM=65.9% DISK=53.3%
+2026-03-11 15:38:10,983 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50071)
+2026-03-11 15:38:10,984 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.0% MEM=65.8% DISK=53.3%
+2026-03-11 15:38:42,044 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53612)
+2026-03-11 15:38:42,045 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.2% MEM=66.4% DISK=53.3%
+2026-03-11 15:39:13,087 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55735)
+2026-03-11 15:39:13,102 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.7% MEM=66.3% DISK=53.3%
+2026-03-11 15:39:44,175 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57299)
+2026-03-11 15:39:44,175 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.9% MEM=66.4% DISK=53.3%
+2026-03-11 15:40:15,232 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65331)
+2026-03-11 15:40:15,232 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.1% MEM=65.7% DISK=53.3%
+2026-03-11 15:40:46,285 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54306)
+2026-03-11 15:40:46,286 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.7% MEM=65.9% DISK=53.3%
+2026-03-11 15:41:17,358 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51688)
+2026-03-11 15:41:17,359 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.8% MEM=65.9% DISK=53.3%
+2026-03-11 15:41:48,422 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51689)
+2026-03-11 15:41:48,445 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.2% MEM=65.8% DISK=53.3%
+2026-03-11 15:42:19,515 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65078)
+2026-03-11 15:42:19,517 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.4% MEM=65.8% DISK=53.3%
+2026-03-11 15:42:50,579 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65079)
+2026-03-11 15:42:50,579 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.8% MEM=64.1% DISK=53.3%
+2026-03-11 15:43:21,628 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53294)
+2026-03-11 15:43:21,628 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=64.7% DISK=53.3%
+2026-03-11 15:43:52,674 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60886)
+2026-03-11 15:43:52,675 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.4% MEM=64.9% DISK=53.3%
+2026-03-11 15:44:23,719 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56729)
+2026-03-11 15:44:23,743 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.7% MEM=65.6% DISK=53.3%
+2026-03-11 15:44:54,835 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56734)
+2026-03-11 15:44:54,835 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=64.8% DISK=53.3%
+2026-03-11 15:45:25,881 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50804)
+2026-03-11 15:45:25,881 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=11.7% MEM=65.8% DISK=53.3%
+2026-03-11 15:45:56,928 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62893)
+2026-03-11 15:45:56,954 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.1% MEM=65.4% DISK=53.3%
+2026-03-11 15:46:28,030 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63646)
+2026-03-11 15:46:28,031 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=64.8% DISK=53.3%
+2026-03-11 15:46:59,100 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56057)
+2026-03-11 15:46:59,101 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.4% MEM=63.7% DISK=53.3%
+2026-03-11 15:47:30,155 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64190)
+2026-03-11 15:47:30,156 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.9% MEM=64.4% DISK=53.3%
+2026-03-11 15:48:01,223 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62688)
+2026-03-11 15:48:01,224 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.0% MEM=62.3% DISK=53.3%
+2026-03-11 15:48:32,285 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 56001)
+2026-03-11 15:48:32,285 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.4% MEM=62.4% DISK=53.3%
+2026-03-11 15:49:03,342 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54643)
+2026-03-11 15:49:03,351 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.7% MEM=62.6% DISK=53.3%
+2026-03-11 15:49:34,419 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64826)
+2026-03-11 15:49:34,420 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.9% MEM=62.4% DISK=53.3%
+2026-03-11 15:50:05,471 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51320)
+2026-03-11 15:50:05,471 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.2% MEM=62.4% DISK=53.3%
+2026-03-11 15:50:36,522 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53449)
+2026-03-11 15:50:36,522 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.0% MEM=62.6% DISK=53.3%
+2026-03-11 15:51:07,567 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49279)
+2026-03-11 15:51:07,567 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.3% MEM=62.8% DISK=53.3%
+2026-03-11 15:51:38,615 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55495)
+2026-03-11 15:51:38,616 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.5% MEM=63.1% DISK=53.3%
+2026-03-11 15:52:09,674 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49850)
+2026-03-11 15:52:09,674 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.2% MEM=62.9% DISK=53.3%
+2026-03-11 15:52:40,724 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49852)
+2026-03-11 15:52:40,724 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.1% MEM=62.4% DISK=53.3%
+2026-03-11 15:53:11,796 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64236)
+2026-03-11 15:53:11,796 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.8% MEM=61.1% DISK=53.3%
+2026-03-11 15:53:42,855 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64237)
+2026-03-11 15:53:42,856 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.9% MEM=61.2% DISK=53.3%
+2026-03-11 15:54:13,899 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59320)
+2026-03-11 15:54:13,900 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.1% MEM=61.7% DISK=53.3%
+2026-03-11 15:54:44,969 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62949)
+2026-03-11 15:54:44,970 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.8% MEM=61.6% DISK=53.3%
+2026-03-11 15:55:16,039 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60854)
+2026-03-11 15:55:16,040 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=61.4% DISK=53.3%
+2026-03-11 15:55:47,125 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57358)
+2026-03-11 15:55:47,137 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.6% MEM=61.3% DISK=53.3%
+2026-03-11 15:56:18,188 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54934)
+2026-03-11 15:56:18,189 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.3% MEM=61.9% DISK=53.3%
+2026-03-11 15:56:49,245 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54937)
+2026-03-11 15:56:49,246 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.0% MEM=61.6% DISK=53.3%
+2026-03-11 15:57:20,303 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52475)
+2026-03-11 15:57:20,319 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.1% MEM=61.2% DISK=53.3%
+2026-03-11 15:57:51,381 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52476)
+2026-03-11 15:57:51,382 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.6% MEM=60.6% DISK=53.3%
+2026-03-11 15:58:22,453 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49916)
+2026-03-11 15:58:22,454 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.5% MEM=61.2% DISK=53.3%
+2026-03-11 15:58:53,522 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49917)
+2026-03-11 15:58:53,523 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.7% MEM=60.5% DISK=53.3%
+2026-03-11 15:59:24,618 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50465)
+2026-03-11 15:59:24,619 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.7% MEM=61.4% DISK=53.3%
+2026-03-11 15:59:55,720 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53484)
+2026-03-11 15:59:55,737 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.3% MEM=62.7% DISK=53.3%
+2026-03-11 16:00:26,821 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51729)
+2026-03-11 16:00:26,822 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.1% MEM=62.1% DISK=53.3%
+2026-03-11 16:00:57,879 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51731)
+2026-03-11 16:00:57,879 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.7% MEM=62.0% DISK=53.3%
+2026-03-11 16:01:28,959 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54121)
+2026-03-11 16:01:28,960 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.9% MEM=61.8% DISK=53.3%
+2026-03-11 16:02:00,048 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49259)
+2026-03-11 16:02:00,049 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=14.5% MEM=63.6% DISK=53.3%
+2026-03-11 16:02:31,097 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65511)
+2026-03-11 16:02:31,121 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.5% MEM=62.2% DISK=53.3%
+2026-03-11 16:03:02,177 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51680)
+2026-03-11 16:03:02,177 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.0% MEM=62.5% DISK=53.3%
+2026-03-11 16:03:33,294 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57452)
+2026-03-11 16:03:33,295 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.2% MEM=63.1% DISK=53.3%
+2026-03-11 16:04:04,377 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65198)
+2026-03-11 16:04:04,378 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.3% MEM=62.9% DISK=53.3%
+2026-03-11 16:04:35,488 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64547)
+2026-03-11 16:04:35,489 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.9% MEM=63.0% DISK=53.3%
+2026-03-11 16:05:06,565 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60978)
+2026-03-11 16:05:06,565 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.8% MEM=62.7% DISK=53.3%
+2026-03-11 16:05:37,663 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 65028)
+2026-03-11 16:05:37,664 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.9% MEM=62.1% DISK=53.3%
+2026-03-11 16:06:08,765 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54435)
+2026-03-11 16:06:08,780 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.2% MEM=62.1% DISK=53.3%
+2026-03-11 16:06:39,855 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54436)
+2026-03-11 16:06:39,856 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.4% MEM=62.0% DISK=53.3%
+2026-03-11 16:07:10,913 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60524)
+2026-03-11 16:07:10,913 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=28.7% MEM=63.2% DISK=53.3%
+2026-03-11 16:07:42,005 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60527)
+2026-03-11 16:07:42,006 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.7% MEM=62.7% DISK=53.3%
+2026-03-11 16:08:13,084 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57500)
+2026-03-11 16:08:13,084 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.3% MEM=62.9% DISK=53.3%
+2026-03-11 16:08:44,158 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 57502)
+2026-03-11 16:08:44,159 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.5% MEM=62.6% DISK=53.3%
+2026-03-11 16:09:15,245 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55850)
+2026-03-11 16:09:15,246 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.4% MEM=63.6% DISK=53.3%
+2026-03-11 16:09:46,333 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55852)
+2026-03-11 16:09:46,334 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.1% MEM=63.2% DISK=53.3%
+2026-03-11 16:10:17,419 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55519)
+2026-03-11 16:10:17,440 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.6% MEM=64.8% DISK=53.3%
+2026-03-11 16:10:48,511 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54280)
+2026-03-11 16:10:48,511 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=1.9% MEM=63.7% DISK=53.3%
+2026-03-11 16:11:19,596 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54669)
+2026-03-11 16:11:19,621 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.0% MEM=63.6% DISK=53.3%
+2026-03-11 16:11:50,706 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 54670)
+2026-03-11 16:11:50,707 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.5% MEM=63.4% DISK=53.3%
+2026-03-11 16:12:21,807 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62481)
+2026-03-11 16:12:21,808 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.1% MEM=63.5% DISK=53.3%
+2026-03-11 16:12:52,908 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51554)
+2026-03-11 16:12:52,909 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.3% MEM=61.9% DISK=53.3%
+2026-03-11 16:13:23,991 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62161)
+2026-03-11 16:13:23,992 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.9% MEM=62.4% DISK=53.3%
+2026-03-11 16:13:55,080 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 62165)
+2026-03-11 16:13:55,081 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.7% MEM=61.8% DISK=53.3%
+2026-03-11 16:14:26,165 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63512)
+2026-03-11 16:14:26,165 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.5% MEM=62.2% DISK=53.3%
+2026-03-11 16:14:57,232 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49868)
+2026-03-11 16:14:57,234 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.4% MEM=62.4% DISK=53.3%
+2026-03-11 16:15:28,298 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63403)
+2026-03-11 16:15:28,299 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=10.2% MEM=65.0% DISK=53.3%
+2026-03-11 16:15:59,367 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 53512)
+2026-03-11 16:15:59,382 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.8% MEM=64.8% DISK=53.3%
+2026-03-11 16:16:30,447 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 55914)
+2026-03-11 16:16:30,447 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.8% MEM=64.6% DISK=53.3%
+2026-03-11 16:17:01,509 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 61551)
+2026-03-11 16:17:01,509 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.3% MEM=64.1% DISK=53.3%
+2026-03-11 16:17:32,581 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 59867)
+2026-03-11 16:17:32,581 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.9% MEM=64.5% DISK=53.3%
+2026-03-11 16:18:03,659 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 50678)
+2026-03-11 16:18:03,660 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=5.5% MEM=63.8% DISK=53.3%
+2026-03-11 16:18:34,744 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 64499)
+2026-03-11 16:18:34,746 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=2.4% MEM=62.7% DISK=53.3%
+2026-03-11 16:19:05,819 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51922)
+2026-03-11 16:19:05,840 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.3% MEM=64.5% DISK=53.3%
+2026-03-11 16:19:36,915 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51929)
+2026-03-11 16:19:36,917 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=9.2% MEM=63.7% DISK=53.3%
+2026-03-11 16:20:08,009 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 63225)
+2026-03-11 16:20:08,009 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=3.2% MEM=63.9% DISK=53.3%
+2026-03-11 16:20:39,077 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49927)
+2026-03-11 16:20:39,078 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.2% MEM=63.8% DISK=53.3%
+2026-03-11 16:21:10,153 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 52944)
+2026-03-11 16:21:10,154 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=4.4% MEM=64.2% DISK=53.3%
+2026-03-11 16:21:41,213 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 58501)
+2026-03-11 16:21:41,214 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=7.2% MEM=64.8% DISK=53.3%
+2026-03-11 16:22:12,288 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60847)
+2026-03-11 16:22:12,289 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=8.8% MEM=65.4% DISK=53.3%
+2026-03-11 16:22:43,346 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 60848)
+2026-03-11 16:22:43,347 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=6.7% MEM=65.2% DISK=53.3%
+2026-03-11 16:23:14,403 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51386)
+2026-03-11 16:23:14,403 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=12.5% MEM=65.7% DISK=53.3%
+2026-03-11 16:23:45,465 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 51387)
+2026-03-11 16:23:45,466 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=9.4% MEM=65.1% DISK=53.3%
+2026-03-11 16:24:16,537 [SERVEUR] INFO - Nouvelle connexion: ('127.0.0.1', 49391)
+2026-03-11 16:24:16,538 [SERVEUR] INFO - Métriques reçues de 9c9f3bc9 | CPU=10.4% MEM=65.1% DISK=53.3%
