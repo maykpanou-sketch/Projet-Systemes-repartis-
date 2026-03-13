@@ -78,7 +78,7 @@ def get_os_info():
     }
 
 def check_port(port: int) -> bool:
-    """Vérifie si un port local est ouvert (en écoute)."""
+    """Vérifie si un port local est ouvert."""
     connections = psutil.net_connections(kind="inet")
     for conn in connections:
         if conn.laddr.port == port and conn.status == "LISTEN":
